@@ -1,0 +1,7 @@
+How do we get meaningful information from data?
+
+Exploratory Data Analysis (EDA), which is the process of investigating datasets, elucidating
+subjects, and visualizing outcomes. EDA is an approach to data analysis that applies a variety
+of techniques to maximize specific insights into a dataset, reveal an underlying structure, 
+extract significant variables, detect outliers and anomalies, test assumptions, develop models, 
+and determine best parameters for future estimations. 
