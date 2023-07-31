@@ -1,3 +1,10 @@
+
+EDA
+Data Cleaning 
+Feature Engineering
+
+
+
 How do we get meaningful information from data?
 
 Exploratory Data Analysis (EDA), which is the process of investigating datasets, elucidating
